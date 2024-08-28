@@ -14,6 +14,7 @@ func main() {
 	// ptr = &num
 
 	// Initialize variable
+	// testing git push
 	num := 2
 
 	// Create a pointer to the variable
