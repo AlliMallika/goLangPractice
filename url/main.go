@@ -17,5 +17,6 @@ func main() {
 	}
 	fmt.Println("ParsedURL:", parsedURL)
 	fmt.Printf("Type of ParsedURL:%T\n", parsedURL)
+	fmt.Println("****************")
 
 }
