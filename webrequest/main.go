@@ -9,6 +9,7 @@ import (
 func main() {
 	fmt.Println("Started learning WebRequest")
 
+	//this file contains only GET HTTP Request
 	res, err := http.Get("https://fakestoreapi.com/users")
 	if err != nil {
 		fmt.Println("Error in Response", err)
